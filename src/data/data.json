@@ -1,7 +1,7 @@
 {
   "Header": {
     "title": "HaulComm",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "paragraph": ""
   },
   "About": {
     "paragraph": "Our platform is built on the foundation of over 25 years of Project Management experience, specifically tailored to address the nuanced challenges of transportation and hauling in Project Management. Designed by seasoned professionals, our application offers unparalleled granularity in tracking, providing fact-driven reports and real-time updates that are designed to significantly reduce labor and improve efficiency. By integrating our app into your project management strategy, you gain access to a suite of tools that streamline daily transportation tasks, assisting your projects to stay on schedule and within budget.",
@@ -67,19 +67,19 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-map-location-dot",
+      "name": "Real-Time Updates",
+      "text": "Stay ahead with real-time updates on project specifics. Our app enables brokers and project owners to manage transport tasks with unparalleled ease, ensuring that project needs are met without delay."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-magnifying-glass-dollar",
+      "name": "Cost Reconciliation",
+      "text": "Keep your budget on track with daily cost reconciliation. Confirm expenses and manage your project's financials efficiently to maintain accurate budget tracking."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-users",
+      "name": "Efficient Management",
+      "text": "Our app is an essential tool for streamlining Project Management. Minimize time spent on discrepancies and disputes to facilitate smooth project progression."
     }
   ],
   "Testimonials": [
@@ -147,7 +147,7 @@
   "Features": [
     {
       "icon": "fa fa-truck-fast",
-      "title": "Independent Transport Operators",
+      "title": "Independent",
       "text": "Transform your hauling business with our app—your tool for settling disputes, ensuring prompt payments, and finding local projects with ease."
     },
     {
