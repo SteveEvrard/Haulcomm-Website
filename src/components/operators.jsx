@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Features = (props) => {
+export const Operators = (props) => {
   return (
     <div id="operators" className="text-center">
       <div className="container">
