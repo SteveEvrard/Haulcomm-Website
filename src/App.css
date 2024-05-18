@@ -1,7 +1,7 @@
 @media screen and (max-width: 400px) {
   #operators {
     padding: 20px;
-    width: 111%;
+    /* width: 111%; */
   }
 
   #header,
@@ -11,10 +11,10 @@
   #team,
   #contact,
   #footer {
-    width: 111%;
+    /* width: 111%; */
   }
 
   #portfolio {
-    width: 110%;
+    /* width: 110%; */
   }
 }
