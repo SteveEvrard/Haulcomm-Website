@@ -25,7 +25,7 @@ export const Contact = (props) => {
     setEmailBtnText("Sending...")
         
     emailjs
-      .sendForm("service_o5qjzb3", "template_mp4ucu9", e.target, "PN0CXJhbieJAX5y-u")
+      .sendForm("service_sx9fdqu", "template_mp4ucu9", e.target, "PN0CXJhbieJAX5y-u")
       .then(
         (result) => {
           console.log(result.text);
